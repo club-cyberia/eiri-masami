@@ -5,7 +5,7 @@ multi line comments */
 
 /* 
 Javascript provides 8 different data types:
-
+// sss
 1. undefined
 2. null
 3. boolean
