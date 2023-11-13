@@ -2,7 +2,7 @@
 multi line comments */
 
 // This is how you create single line comments
-
+// my fhfhdhfhd test
 /* 
 Javascript provides 8 different data types:
 // sss
